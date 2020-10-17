@@ -59,6 +59,11 @@ Solution:
 
  To build model for cluster classification
  Linear SVM of machine learning algorithm performed very well.
+ 
+ ## Prediction of demands
+ 
+  - Collected all features together and mark "Quantity" column as a target variable.
+  - Splitted the whole dataset into train test and predicted the quantity of the items
 
 ## Conclusion
 
