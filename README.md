@@ -30,6 +30,27 @@
 Solution:
  - Algorithm which considers mixed attribute : K-Prototypes
 
-**CLUSTERING: k-prototypes
+### CLUSTERING: k-prototypes
+- Based on the k-means paradigm
+- Works well with mixed data, preserving its efficiency.
+- Maximises the intra cluster similarity of objects
+- Object similarity measure is derived from both numeric and categorical attributes
+
+### Clustering output:
+ The output column from clustering of Train was used as Target variable for classification training set 
+ 
+## CLASSIFICATION: 
+ To build model for cluster classification
+ Linear SVM of machine learning algorithm performed very well.
+
+## Conclusion
+- The data pre-processing phase facilitates the formation of the inputs to the models.
+- The feature engineering process helps create new variables that bring additional value to demand interpretation.
+- The three-step model involving clustering, classification and prediction enables the company further to visualize the relationship between predictor variables and customize the forecasting approaches accordingly.
+
+
+
+
+
 
 
