@@ -3,7 +3,7 @@
  ## Goal
   Demand Forecasting of products
   
-  What is Demand Forecasting?
+  
     Demand Forecasting is the art & science of predicting customer’s future demand  for  products.
  
  ## DATASET
