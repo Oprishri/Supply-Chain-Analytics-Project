@@ -64,6 +64,7 @@ Solution:
  
   - Collected all features together and mark "Quantity" column as a target variable.
   - Splitted the whole dataset into train test and predicted the quantity of the items
+  - Demand forecasting of quantity column, the machine learning algorithm random forest performed very well.
 
 ## Conclusion
 
